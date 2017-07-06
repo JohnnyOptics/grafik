@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "grafik",
-    "currentPage": "graphic designer",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -62,8 +62,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/visual-skills1-2000x1006.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -255,7 +255,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/winiary-2000x986.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -409,7 +409,7 @@
               "size": 0
             }
           },
-          "title": "GRAFIK / FOTOGRAF&nbsp;<br><br>",
+          "title": "GRAFIK / FOTOGRAF<br>JUNIOR FRONT END DEVELOPER&nbsp;<br><br>",
           "text": "<b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -429,7 +429,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę w charakterze <b>Grafika /</b>&nbsp;<b>Fotografa</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu, zdjęć, filmu, projektowaniem grafiki na potrzeby marketingu, a także stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną. Jestem kreatywny, dokładny i zwracam uwagę na szczegóły. Do problemów podchodzę z entuzjazmem i inicjatywą. Niedawno wróciłem z Anglii i od kilku miesięcy uczę się programowania w zakresie Frontend Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zgłębiłem wiedzę z następujących działów: <b>HTML 5, CSS3, Responsive Design, JavaScript. </b>W najbliższym czasie zamierzam zdobyć podstawy wiedzy na temat &nbsp;<b>jQuert, Ruby, Ruby On Rails, SQL, ReactJS , Phyton, PHP </b>oraz<b> Java. </b>Posiadam umiejętność szybkiego uczenia się, a poszerzanie własnych kompetencji sprawia mi przyjemność. <span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, w ciągu nadchodzących lat, będę mógł praktycznie zastosować i poszerzyć zdobytą wiedzę. Nie mam wygórowanych wymagań finansowych.</span></p>"
+          "text": "<p>Nazywam się Jan Szymański (lat 35) i chętnie podejmę pracę w charakterze <b>Grafika / Junior Front End Web Developera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu i obrazu (motion design) projektowaniem grafiki na potrzeby marketingu, składem czasopism, tworzeniem bannerów, POS, a także stron WWW. Posiadam dużą wrażliwość estetyczną i jestem kreatywny. Niedawno wróciłem z Anglii i od kilku miesięcy uczę się zagadnień z zakresu Front End Developing'u. Studiuję online na <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. Dotychczas zgłębiłem wiedzę z następujących działów: <b>HTML 5, CSS3, Responsive Design, JavaScript</b>. Interesuje mnie również <b>jQuery</b>.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Posiadam umiejętność szybkiego uczenia się, a poszerzanie własnych kompetencji sprawia mi przyjemność. Szukam pracodawcy u którego, w ciągu nadchodzących lat, będę mógł praktycznie zastosować i poszerzyć zdobytą wiedzę. <b>Liczę na długotrwałą współpracę.</b></span></p>"
         },
         {
           "_tags": [
@@ -638,7 +638,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"developer_eng#msg-box5-19\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpVTlrNU9DZThiaDQ\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpejZGaEJ3VG02bGM\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpTEtWdVBoUmw2bmM\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpSnkySk5SaFF5UFk\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         }
       ]
     },
@@ -673,8 +673,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/visual-skills1-2000x1006.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -866,7 +866,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/winiary-2000x986.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1040,7 +1040,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>My name is Jan Szymański (35) and I'm seeking for work&nbsp;<b>Graphic Designer / Photographer.</b>&nbsp; Over the last 15 years I have been doing photography, text, image, motion picture editing, graphic design for marketing,  and also created several web pages. I have a great aesthetic sensitivity and I am creative. I recently came back  from England and I have been learning Front End Developing for some months now. I am also interested in Back End. I am studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. So far I explored the following areas: <b>HTML 5, CSS3, Responsive Design, JavaScript.</b>&nbsp;In the near future I'm planning to learn basics of&nbsp;<b>jQuert, Ruby, Ruby On Rails, SQL, ReactJS, Phyton, PHP </b>and<b> Java.</b>   I am looking for a position  where, in the coming years, I will be able to practically apply and broaden my knowledge as a graphic designer. I have no exaggerated financial expectations.</p>"
+          "text": "<p>My name is Jan Szymański (35) and I would like to work as <b>Graphics / Photographer /Junior Front End Web Developer</b>. Over  the last 15 years I have been involved in photography, motion graphics, graphic design for marketing, magazine design, banner design, POS, and web design. <br>I have a great aesthetic sensitivity and I am creative. I recently came back from England and for a last few months I have been learning Front End Developing issues.  I'm studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com.  So far I have explored the following areas: <b>HTML5, CSS3, Responsive Design,</b> <b>JavaScript</b>. I'm also interested  in <b>jQuery</b>. I have the ability to learn quickly, and <br>I enjoy to expand my competence. I'm looking for a position, where I will be able to practically apply and broaden my knowledge. <br><b>I count on long-term cooperation.&nbsp;</b></p>"
         },
         {
           "_tags": [
@@ -1249,7 +1249,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"developer_eng#msg-box5-19\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpVTlrNU9DZThiaDQ\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpejZGaEJ3VG02bGM\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpTEtWdVBoUmw2bmM\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpSnkySk5SaFF5UFk\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         }
       ]
     }
